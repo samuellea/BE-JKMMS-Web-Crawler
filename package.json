@@ -1,0 +1,25 @@
+{
+  "name": "BE-JKMMS-Web-Crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./spec/*.spec.js",
+    "precommit": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuellea/BE-JKMMS-Web-Crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuellea/BE-JKMMS-Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/samuellea/BE-JKMMS-Web-Crawler#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
