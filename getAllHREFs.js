@@ -1,4 +1,3 @@
-const getALLHREFs = (string) => {
-//functionality goes here!
-}
-
+const getAllHREFs = string => {
+  //functionality goes here!
+};
